@@ -31,7 +31,7 @@ def topLogin(data: list) -> None:
         "content": None,
         "embeds": [
             {
-                "title": "عبد تسجيل الدخول- " + main.fate_region,
+                "title": "مينغودا تسجيل الدخول- " + main.fate_region,
                 "description": f"عووووك جلا افتحوا الشغل شوفونا",
                 "color": 563455,
                 "fields": [
@@ -56,12 +56,12 @@ def topLogin(data: list) -> None:
                         "inline": True
                     },                    
                     {
-                        "name": "حسن زلقو",
+                        "name": "الكوارتز",
                         "value": f"{rewards.stone}",
                         "inline": True
                     },
                     {
-                        "name": "الكوارتز",
+                        "name": "مكعبات الكوارتز",
                         "value": f"{rewards.sqf01}",
                         "inline": True
                     },
@@ -128,7 +128,7 @@ def topLogin(data: list) -> None:
                     
                 ],
                 "thumbnail": {
-                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqFyQNOyH4VR9b8K9wtJa1RmU6F1eDFMmoeQ&usqp=CAU"
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPfbf3K9nbDIWO2C93YTl-p5fsMeV931NCiw&usqp=CAU"
                 }
             }
         ],
